@@ -6,4 +6,6 @@ Professor: Walison Cavalcanti Moreira
 
 ## Links
 
-[Introdução ao Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/) -Tutorial do Git Básico.
+* [Introdução ao Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/) - Tutorial do Git Básico.
+
+* [Curso de Git] (https://www.youtube.com/watch?v=C18qzn7j4SM) - do Professor Rodrigo Branas.
